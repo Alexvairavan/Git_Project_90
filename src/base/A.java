@@ -19,6 +19,10 @@ public class A {
 		
 	}
 	
+	private void method05() {
+	
+	}
+	
 	
 	public static void main(String[] args) {
 		
