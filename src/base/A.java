@@ -29,6 +29,11 @@ public class A {
 		
 	}
 	
+
+	private void method08() {
+		
+	}
+
 	private void method07() {
 		
 	}
@@ -41,6 +46,10 @@ public class A {
 		
 	}
 	
+	private void method10() {
+
+		
+	}
 	
 	
 	public static void main(String[] args) {
