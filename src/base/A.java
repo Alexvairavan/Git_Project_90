@@ -23,6 +23,10 @@ public class A {
 	
 	}
 	
+	private void method06() {
+		
+	}
+	
 	
 	public static void main(String[] args) {
 		
