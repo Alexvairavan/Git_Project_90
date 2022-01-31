@@ -1,5 +1,7 @@
 package base;
 
+
+
 public class A {
 	
 	
@@ -29,8 +31,16 @@ public class A {
 	
 	private void method07() {
 		
-
 	}
+	
+	private void method09() {
+		
+}
+
+	private void method11() {
+		
+	}
+	
 	
 	
 	public static void main(String[] args) {
