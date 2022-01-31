@@ -27,6 +27,9 @@ public class A {
 		
 	}
 	
+	private void method08() {
+		
+	}
 	
 	public static void main(String[] args) {
 		
